@@ -4,7 +4,7 @@
 There are four main components:
 ## *'MLens.modeling.R'* - main R script that pulls the data, runs analysis and outputs results.
 *opts.RDS* file already contains tuning parameters stored for *recosystem* training run and 
-will save you computational time if the entire repository is cloned (or could use "Download ZIP" option).
+will save you computational time if the entire repository is cloned (or could use "Download ZIP" option under big green "CODE" button).
 Additionally, the script will save edx and validation data sets to working directory as .RDS files upon
 initial run to avoid lengthy web data pulls on reruns.
     
